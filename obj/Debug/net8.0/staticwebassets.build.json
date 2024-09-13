@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+415jmNMHjSNkGqsx4SVjfZOYUCy2RXGmha0MNwtdCs=",
+  "Source": "REST-APT",
+  "BasePath": "_content/REST-APT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
